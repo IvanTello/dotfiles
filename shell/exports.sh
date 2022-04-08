@@ -45,4 +45,5 @@ export path=(
   "/usr/sbin"
   "/sbin"
   "/mnt/c/Program Files/Microsoft VS Code/bin"
+  "/mnt/c/Users/Ivan Tello/AppData/Local/Programs/Microsoft VS Code/bin"
 )
